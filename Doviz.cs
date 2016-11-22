@@ -17,6 +17,7 @@ namespace DovizKurlari
         private List<Doviz> _kurlar;
         public List<Doviz> Kurlar
         {
+
             get
             {
 
